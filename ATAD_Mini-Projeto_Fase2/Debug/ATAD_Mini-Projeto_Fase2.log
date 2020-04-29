@@ -1,0 +1,43 @@
+﻿  basket.c
+  cluster.c
+  commands.c
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(80): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(81): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(82): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(83): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(84): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(143): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(150): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(152): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(168): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(170): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(192): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(195): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(246): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(281): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(317): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(533): warning C4244: 'função': conversão de 'float' para 'int', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(543): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(519): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(524): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(529): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(546): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(555): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\commands.c(564): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  listArrayList.c
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\listarraylist.c(74): warning C4018: '>': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\listarraylist.c(103): warning C4018: '>': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\listarraylist.c(132): warning C4018: '>': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\listarraylist.c(156): warning C4018: '>': incompatibilidade de signed/unsigned
+  listElem.c
+  main.c
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\main.c(77): warning C4305: 'função': truncamento de 'double' para 'float'
+  mapArrayList.c
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\maparraylist.c(28): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\maparraylist.c(248): warning C4018: '<': incompatibilidade de signed/unsigned
+  mapElem.c
+c:\users\duarte gonçalves\desktop\universidade\1ºano- 2ºs\atad 17_18\projeto atad 2 fase\atad_mini-projeto_fase2\atad_mini-projeto_fase2\mapelem.c(5): warning C4013: 'printf' indefinido; assumindo extern retornando int
+  statistics.c
+  values.c
+  Gerando Código...
+  ATAD_Mini-Projeto_Fase2.vcxproj -> C:\Users\Duarte Gonçalves\Desktop\Universidade\1ºAno- 2ºS\ATAD 17_18\Projeto ATAD 2 Fase\ATAD_Mini-Projeto_Fase2\Debug\ATAD_Mini-Projeto_Fase2.exe
